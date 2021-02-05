@@ -1,0 +1,7 @@
+{
+  "name": "EcommerceTest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
