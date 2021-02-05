@@ -45,6 +45,7 @@ export class NewsPage implements OnInit {
         console.log("login failed" + JSON.stringify(err))
         reject(err);
         alert(err.message)
+        
 
       });
     });
